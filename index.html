@@ -2,25 +2,43 @@
 <html lang="fr" dir="ltr">
   <head>
     <meta charset="utf-8">
-      <link rel="stylesheet" href="./assets/css/style.css"/>
-        <title>Portfolio - Salomé LEROUX</title>
+    <link rel="stylesheet" href="./assets/css/bootstrap.css">
+        <title>Portfolio - Salomé Leroux</title>
   </head>
   <body>
     <header>
-      <h1>Welcome</h1>
-      <center><img src="./assets/pictures/_Un projet, c'est l'ombre de la volonté, un rêve de la fantaisie._.png" title="illustration"/></center>
-      <h2>Salomé LEROUX</h2>
-    </header>
-    <nav><ul id="navigation">
-      <li><a href="#" title="Accueil">Accueil</a></li>
-      <li><a href="#" title="expériences">Expériences</a></li>
-      <li><a href="#" title="diplomes">Diplômes</a></li>
-        <ul>
-          <li><a href="#">Certification Référent digital</a></li>
-          <li><a href="#">Licence professionnelle documentation</a></li>
-          <li><a href="#">Licence AES</a></li>
-        </ul>
-      <li><a href="#" title="coordonnées">Coordonnées</a></li>
-      <li><a href="#" title="contact">Me contacter</a></li>
-    </ul></nav>
+      <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #b38184">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Accueil</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Expériences</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Diplômes
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Certification Référent Digital</a>
+                <a class="dropdown-item" href="#">Licence profressionnelle</a>
+                <a class="dropdown-item" href="#">Licence AES</a>
+                <div class="dropdown-divider"></div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled" href="#">Me contacter</a>
+            </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Rechercher" aria-label="Rechercher">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Rechercher</button>
+          </form>
+        </div>
+      </nav>
+      </header>
+      
+  <script type="text/javascript" src="./assets/js/jquery.js"></script>
+  <script type="text/javascript" src="./assets/js/bootstrap.bundle.js"></script>
+
   </body>
