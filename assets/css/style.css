@@ -7,7 +7,11 @@ header,body,html{
   height: 100%;
 }
 header{
-  background: url("../pictures/leroux.png") no-repeat center center;
+  background: url("../pictures/leroux.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
   }
 .wrapper{
   display: table;
