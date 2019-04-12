@@ -1,4 +1,3 @@
-</head>
 <body>
   <header>
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color: #e2b9ac">
@@ -27,6 +26,7 @@
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="index.php?page=coordonnees">Mes coordonnées</a>
                 <a class="dropdown-item" href="index.php?page=frmmecontacter">Me contacter</a>
+              </li>
         </ul>
         <form class="form-inline my-2 my-lg-0">
           <input class="form-control mr-sm-2" type="search" placeholder="Rechercher" aria-label="Rechercher">
@@ -35,7 +35,3 @@
       </div>
     </nav>
   </header>
-  <script type="text/javascript" src="./assets/js/jquery.js"></script>
-  <script type="text/javascript" src="./assets/js/bootstrap.bundle.js"></script>
-</body>
-</html>
