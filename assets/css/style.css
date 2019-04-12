@@ -1,8 +1,8 @@
 @font-face {
   font-family: "Roboto";
   src: url(https://www.dafont.com/fr/roboto.font/Roboto-Thin.ttf) format("truetype");
-  font-family: "Playlist-Script";
-  src: url(https://fr.ffonts.net/Playlist-Script.font/Playlist-Script.otf);
+  font-family: "Playlist";
+  src: url("../font/subset-Playlist-Script.ttf") format("truetype");
 }
 body, htlm, header,h1{
   margin: 0px;
@@ -28,6 +28,7 @@ header{
 header nav.navbar{
   position: fixed;
   width: 1525px;
+  z-index: 100;
 }
 .wrapper{
   display: table;
@@ -36,7 +37,7 @@ header nav.navbar{
 }
 
 h1{
-  font-family: "Playlist-Script";
+  font-family: "Playlist";
   font-size: 23px;
 }
 .main{
@@ -51,4 +52,14 @@ h1{
 }
 .ecrit{
   text-align: justify;
+}
+h2{
+  font-family: "Playlist";
+  font-size: 45px;
+  color: #9e9292;
+}
+h3{
+  font-family: "Playlist";
+  font-size: 30px;
+  color: #d98b76;
 }
