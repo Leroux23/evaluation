@@ -49,3 +49,6 @@ h1{
   display: flex;
   text-align: center;
 }
+.ecrit{
+  text-align: justify;
+}
