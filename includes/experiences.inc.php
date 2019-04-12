@@ -9,7 +9,7 @@
                   <span class="section-heading-upper">Caux Seine Agglo</span>
                 </h2>
                 <h3>
-                  <span class="section-heading-lower">Assistante documentaliste - Octobre 2017 | Janvier 2019</span>
+                  <span class="section-heading-lower">Assistante documentaliste (alternance) - Octobre 2017 | Janvier 2019</span>
                 </h3>
                 <ul>
                   <li>Développement d'un portail documentaire à partir du logiciel PMB |<a href="https://pmb.cauxseine.fr/">&nbsp;Cliquez ici</a></li>
@@ -37,7 +37,7 @@
                       <span class="section-heading-upper">Rouen Expo Evénements</span>
                     </h2>
                     <h3>
-                      <span class="section-heading-lower">Assistante de direction - Janvier 2017 | Février 2017</span>
+                      <span class="section-heading-lower">Assistante de direction (stage) - Janvier 2017 | Février 2017</span>
                     </h3>
                     <ul>
                       <li>Gestion du plan de formations</li>
