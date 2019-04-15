@@ -40,6 +40,16 @@ h1{
   font-family: "Playlist";
   font-size: 23px;
 }
+h2{
+  font-family: "Playlist";
+  font-size: 45px;
+  color: #9e9292;
+}
+h3{
+  font-family: "Playlist";
+  font-size: 30px;
+  color: #d98b76;
+}
 .main{
   max-width: 650px;
   margin: 80px auto;
@@ -53,13 +63,6 @@ h1{
 .ecrit{
   text-align: justify;
 }
-h2{
-  font-family: "Playlist";
-  font-size: 45px;
-  color: #9e9292;
-}
-h3{
-  font-family: "Playlist";
-  font-size: 30px;
-  color: #d98b76;
+.certification{
+  text-align: justify;
 }
