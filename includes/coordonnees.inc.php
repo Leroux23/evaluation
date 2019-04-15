@@ -1,1 +1,1 @@
-<h1>Mes coordonnées</h1>
+<h2>Mes coordonnées</h2>

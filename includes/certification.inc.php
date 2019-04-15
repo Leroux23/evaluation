@@ -1,5 +1,5 @@
 <h2>Certification Référent Digital</h2>
-<h3>Janvier 2019 - Juillet 2019</h3>
+<h3>Janvier 2019 | Juillet 2019</h3>
 <img src="./assets/pictures/nfactory.png" width="200" height="47">
 <p>Suite à l'obtention de ma licence professionnelle documentation, j'ai intégré NFactory School. Cette école propose des formations spécialisées dans les métiers de l'innovation.
   Voulant m'orienter vers la communication digitale, j'ai effectué les démarches pour entrer dans la certification de référent digital proposé par l'école.
