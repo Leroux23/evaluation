@@ -42,11 +42,13 @@ h1{
 }
 h2{
   font-family: "Playlist";
+  text-align: center;
   font-size: 45px;
   color: #9e9292;
 }
 h3{
   font-family: "Playlist";
+  text-align: center;
   font-size: 30px;
   color: #d98b76;
 }
