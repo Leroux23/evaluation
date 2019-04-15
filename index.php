@@ -1,4 +1,3 @@
-
 <?php
 date_default_timezone_set('Europe/Paris');
 setlocale(LC_CTYPE, 'fr_FR.UTF-8');
@@ -21,11 +20,3 @@ else {
     include_once "./includes/accueil.inc.php";
 }
 include_once "./includes/footer.php";
-
-
-
-
-
-
-
- ?>
