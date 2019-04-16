@@ -1,6 +1,6 @@
 <section class="page-section about-heading">
       <div class="container">
-        <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/cvs.jpg" alt="" width="200" height="113">
+        <a href="https://www.cauxseine.fr/" target="_blank"><img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/cvs.jpg" alt="" width="200" height="113"></a>
         <div class="about-heading-content">
           <div class="row">
             <div class="col-xl-9 col-lg-10 mx-auto">
@@ -12,7 +12,7 @@
                   <span class="section-heading-lower">Assistante documentaliste (alternance) - Octobre 2017 | Janvier 2019</span>
                 </h3>
                 <ul>
-                  <li>Développement d'un portail documentaire à partir du logiciel PMB |<a href="https://pmb.cauxseine.fr/">&nbsp;Cliquez ici</a></li>
+                  <li>Développement d'un portail documentaire à partir du logiciel PMB |<a href="https://pmb.cauxseine.fr/" target="_blank">&nbsp;Cliquez ici</a></li>
                   <li>Alimentation de la base de données</li>
                   <li>Réalisation de produits documentaires (panorama de presse, revue de presse...)</li>
                   <li>Veille documentaire</li>
@@ -28,7 +28,7 @@
     </section>
     <section class="page-section about-heading">
           <div class="container">
-            <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/logo-rouen-expo-evenements.jpg" alt="" width="200" height="161">
+            <a href="https://www.parcexporouen.com/fr/" target="_blank"><img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/logo-rouen-expo-evenements.jpg" alt="" width="200" height="161"></a>
             <div class="about-heading-content">
               <div class="row">
                 <div class="col-xl-9 col-lg-10 mx-auto">
@@ -55,7 +55,7 @@
         </section>
         <section class="page-section about-heading">
               <div class="container">
-                <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/desjardins.png" alt=""width="200" height="112">
+                <a href="https://www.desjardins.fr/" target="_blank"><img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/desjardins.png" alt=""width="200" height="112"></a>
                 <div class="about-heading-content">
                   <div class="row">
                     <div class="col-xl-9 col-lg-10 mx-auto">
@@ -81,7 +81,7 @@
             </section>
             <section class="page-section about-heading">
                   <div class="container">
-                    <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/wings-for-life.png" alt="" width="200" height="94">
+                    <a href="https://www.wingsforlifeworldrun.com/fr/fr/" target="_blank"><img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/wings-for-life.png" alt="" width="200" height="94"></a>
                     <div class="about-heading-content">
                       <div class="row">
                         <div class="col-xl-9 col-lg-10 mx-auto">
