@@ -1,6 +1,6 @@
 <section class="page-section about-heading">
       <div class="container">
-        <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/cvs.jpg" alt="">
+        <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/cvs.jpg" alt="" width="200" height="113">
         <div class="about-heading-content">
           <div class="row">
             <div class="col-xl-9 col-lg-10 mx-auto">
@@ -28,7 +28,7 @@
     </section>
     <section class="page-section about-heading">
           <div class="container">
-            <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/logo-rouen-expo-evenements.jpg" alt="">
+            <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/logo-rouen-expo-evenements.jpg" alt="" width="200" height="161">
             <div class="about-heading-content">
               <div class="row">
                 <div class="col-xl-9 col-lg-10 mx-auto">
@@ -55,7 +55,7 @@
         </section>
         <section class="page-section about-heading">
               <div class="container">
-                <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/desjardins.png" alt="">
+                <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/desjardins.png" alt=""width="200" height="112">
                 <div class="about-heading-content">
                   <div class="row">
                     <div class="col-xl-9 col-lg-10 mx-auto">
@@ -81,7 +81,7 @@
             </section>
             <section class="page-section about-heading">
                   <div class="container">
-                    <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/wings-for-life.png" alt="">
+                    <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="./assets/pictures/wings-for-life.png" alt="" width="200" height="94">
                     <div class="about-heading-content">
                       <div class="row">
                         <div class="col-xl-9 col-lg-10 mx-auto">
