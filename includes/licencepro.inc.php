@@ -1,8 +1,8 @@
 <h2>Licence professionnelle - Métiers de l’information : veille et gestion des ressources documentaires
 parcours Documentaliste d’entreprise et métiers de l’Infodoc</h2>
-<h3>Septembre 2017 | Janvier 2019</h3>
-<img src="./assets/pictures/ifa.png" width="140" height="144">
-<section class="page-section about-heading">
+  <h3>Septembre 2017 | Janvier 2019</h3>
+    <a href="https://www.ifa-rouen.fr/" target="_blank"><img src="./assets/pictures/ifa.png" width="140" height="144"></a>
+    <section class="page-section about-heading">
       <div class="container">
         <div class="about-heading-content">
           <div class="row">
@@ -132,8 +132,8 @@ parcours Documentaliste d’entreprise et métiers de l’Infodoc</h2>
             <span class="section-heading-upper">Web</span>
           </h2>
           <ul>
-            <li>Wordpress | Création d'un blog<a href="https://insertionrefugies.wordpress.com/">&nbsp;Cliquez ici</a></li>
-            <li>Joomla! | Création d'un portfolio<a href="http://lerouxninarchi.fr/">&nbsp;Cliquez ici</a></li>
+            <li>Wordpress | Création d'un blog<a href="https://insertionrefugies.wordpress.com/" target="_blank">&nbsp;Cliquez ici</a></li>
+            <li>Joomla! | Création d'un portfolio<a href="http://lerouxninarchi.fr/" target="_blank">&nbsp;Cliquez ici</a></li>
           </ul>
         </div>
       </div>
