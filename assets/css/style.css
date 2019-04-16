@@ -68,3 +68,20 @@ h3{
 .certification{
   text-align: justify;
 }
+table,
+td {
+    border: 3px solid #e2b9ac;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    background-color: #FFF;
+}
+footer{
+  font-family: "Roboto";
+  font-size: 23px;
+  color: 33 37 41;
+  text-align:center;
+  background-color: #e2b9ac;
+  height: 55px;
+  line-height: 55px;
+}
